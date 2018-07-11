@@ -1,0 +1,2 @@
+# BlogPost
+Create blog Posts
